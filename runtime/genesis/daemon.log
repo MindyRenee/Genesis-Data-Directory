@@ -1,0 +1,2095 @@
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis]   stm entries: 0
+[genesis]   ltm episodes: 0
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 3m
+[genesis]   stm entries: 5
+[genesis]   ltm episodes: 2
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 33 ticks, maturity 0.00, precision 0.92
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 15.9s
+[genesis]   stm entries: 20
+[genesis]   ltm episodes: 7
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 131 ticks, maturity 0.06, precision 0.99
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 17m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 38
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 3962 ticks, maturity 0.82, precision 0.99
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+
+[genesis] Received shutdown signal, stopping...
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[state] offline rest: 0.45h down, adenosine 0.26 -> 0.25
+[genesis] continuity: previous session stopped cleanly — dark for 27m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 71
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 7661 ticks, maturity 0.50, precision 0.89
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[state] offline rest: 0.57h down, adenosine 0.26 -> 0.25
+[genesis] continuity: previous session stopped cleanly — dark for 34m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 81
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 8121 ticks, maturity 0.39, precision 0.84
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 3m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 83
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 8161 ticks, maturity 0.54, precision 0.95
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[state] offline rest: 1.35h down, adenosine 0.25 -> 0.24
+[genesis] continuity: previous session stopped cleanly — dark for 1.4h
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 88
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 8275 ticks, maturity 0.76, precision 0.98
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 2m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 90
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 8313 ticks, maturity 0.75, precision 0.98
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 5m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 107
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 12825 ticks, maturity 0.71, precision 0.98
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 25.8s
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 109
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 20332 ticks, maturity 0.53, precision 0.93
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[state] offline rest: 0.36h down, adenosine 0.33 -> 0.32
+[genesis] continuity: previous session stopped cleanly — dark for 21m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 111
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 20391 ticks, maturity 0.69, precision 0.98
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[state] offline rest: 0.28h down, adenosine 0.32 -> 0.31
+[genesis] continuity: previous session stopped cleanly — dark for 17m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 113
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 20688 ticks, maturity 0.78, precision 0.98
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 12.8s
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 115
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 21408 ticks, maturity 0.53, precision 0.94
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 4m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 117
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 32150 ticks, maturity 0.50, precision 0.91
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 1m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 119
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 32518 ticks, maturity 0.47, precision 0.89
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 9.5s
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 121
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 37112 ticks, maturity 0.52, precision 0.91
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 10.1s
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 123
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 38111 ticks, maturity 0.45, precision 0.89
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[state] offline rest: 7.22h down, adenosine 0.45 -> 0.24
+[genesis] continuity: previous session stopped cleanly — dark for 7.2h
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 125
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 41415 ticks, maturity 0.46, precision 0.89
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 14m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 127
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 41758 ticks, maturity 0.39, precision 0.84
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[state] offline rest: 2.25h down, adenosine 0.29 -> 0.25
+[genesis] continuity: previous session stopped cleanly — dark for 2.3h
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 129
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 48005 ticks, maturity 0.52, precision 0.92
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[state] offline rest: 0.61h down, adenosine 0.25 -> 0.25
+[genesis] continuity: previous session stopped cleanly — dark for 36m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 131
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 48064 ticks, maturity 0.68, precision 0.98
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 9m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 133
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 51275 ticks, maturity 0.50, precision 0.91
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[state] offline rest: 2.05h down, adenosine 0.27 -> 0.24
+[genesis] continuity: previous session stopped cleanly — dark for 2.0h
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 135
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 51336 ticks, maturity 0.67, precision 0.97
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[state] offline rest: 0.98h down, adenosine 0.33 -> 0.30
+[genesis] continuity: previous session stopped cleanly — dark for 58m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 137
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 63842 ticks, maturity 0.54, precision 0.93
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[state] offline rest: 0.79h down, adenosine 0.31 -> 0.29
+[genesis] continuity: previous session stopped cleanly — dark for 47m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 139
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 63936 ticks, maturity 0.71, precision 0.98
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 2.9h
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 141
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[genesis] eye: native V4L2 capture is unavailable on Android; camera input remains absent until an Android camera bridge is installed
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 64605 ticks, maturity 0.80, precision 0.99
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 12m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 143
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[genesis] eye: native V4L2 capture is unavailable on Android; camera input remains absent until an Android camera bridge is installed
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 64670 ticks, maturity 0.84, precision 0.99
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 1m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 145
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[genesis] eye: native V4L2 capture is unavailable on Android; camera input remains absent until an Android camera bridge is installed
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 65162 ticks, maturity 0.77, precision 0.98
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 57.5s
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 147
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] eye: native V4L2 capture is unavailable on Android; camera input remains absent until an Android camera bridge is installed
+[genesis] Loaded inference model: 65325 ticks, maturity 0.86, precision 0.99
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 10.6h
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 151
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[genesis] eye: native V4L2 capture is unavailable on Android; camera input remains absent until an Android camera bridge is installed
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 71116 ticks, maturity 0.79, precision 0.99
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 2.3h
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 153
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] eye: Android optic limb listening on 127.0.0.1:8765
+[genesis] Loaded inference model: 71180 ticks, maturity 0.80, precision 0.99
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 6m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 155
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] eye: Android optic limb listening on 127.0.0.1:8765
+[genesis] Loaded inference model: 77940 ticks, maturity 0.51, precision 0.93
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 1.1h
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 157
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 78016 ticks, maturity 0.67, precision 0.97
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 1m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 159
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 82531 ticks, maturity 0.52, precision 0.92
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: Android camera adapter connected
+[genesis] eye: first Android frame published (640x480)
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 6m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 161
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 83321 ticks, maturity 0.48, precision 0.90
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] eye: Android camera adapter connected
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] eye: first Android frame published (640x480)
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 10m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 163
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 83487 ticks, maturity 0.71, precision 0.97
+[genesis] eye: Android camera adapter connected
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] eye: first Android frame published (640x480)
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 2m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 165
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 83594 ticks, maturity 0.71, precision 0.97
+[genesis] eye: Android camera adapter connected
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] eye: first Android frame published (640x480)
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] eye: Android camera adapter disconnected; reconnecting
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] eye: waiting for Android Camera2 adapter at 127.0.0.1:8765: Connection refused (os error 111)
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 1m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 167
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 86516 ticks, maturity 0.50, precision 0.91
+[genesis] eye: Android camera adapter connected
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] eye: first Android frame published (640x480)
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 9m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 169
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[genesis] Loaded inference model: 86621 ticks, maturity 0.66, precision 0.97
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] eye: Android camera adapter connected
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] eye: first Android frame published (640x480)
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 1.3h
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 171
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 86793 ticks, maturity 0.70, precision 0.97
+[genesis] eye: Android camera adapter connected
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] eye: first Android frame published (640x480)
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 21m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 173
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 86898 ticks, maturity 0.78, precision 0.99
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] eye: Android camera adapter connected
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] eye: first Android frame published (640x480)
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 15m
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 175
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 87046 ticks, maturity 0.77, precision 0.98
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] eye: Android camera adapter connected
+[genesis] eye: first Android frame published (640x480)
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.
+[genesis] Initializing subcognitive...
+[genesis]   data dir:    /data/data/com.termux/files/home/.local/share/genesis
+[genesis]   state file:  /data/data/com.termux/files/home/.local/share/genesis/core_state.bin
+[genesis]   stm file:    /data/data/com.termux/files/home/.local/share/genesis/stm_ring.bin
+[genesis]   ltm base:    /data/data/com.termux/files/home/.local/share/genesis/ltm_store.{bundles,meta,dat}
+[genesis]   socket:      /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] continuity: previous session stopped cleanly — dark for 3.1h
+[genesis]   stm entries: 256
+[genesis]   ltm episodes: 177
+[genesis] Subcognitive initialized.
+[genesis]   provenance: 0x007f63f1b36f
+[field-probe] rtkit boost unavailable: No such file or directory (os error 2)
+[genesis] Loaded inference model: 89400 ticks, maturity 0.46, precision 0.89
+[interoception] 12 optional sensor(s) not present on this machine: battery, AC adapter, fan PWM, power draw, core voltage, supply voltage, RAPL power domains, perf counters, EC GPE counter, local timer counters, pressure stall information, battery cycle count — the matching BodyState fields are placeholders, not measurements
+[genesis] eye: Android camera adapter connected
+[genesis] Lease mode — mind-driven when alive, autonomous fallback when silent.
+[genesis] Mind holds a 3 s lease via reactive IPC; past it the daemon drives itself.
+[ipc] listening on /data/data/com.termux/files/home/.local/share/genesis/genesis.sock
+[genesis] eye: first Android frame published (640x480)
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[ipc] STORE_EPISODE failed: episode text is empty
+[genesis] Shutting down...
+[genesis] Host CPU policy unchanged — nothing was applied, nothing to restore.
+[genesis] Subcognitive stopped. Goodnight.

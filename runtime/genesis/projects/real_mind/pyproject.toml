@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "real_mind"
+version = "0.1.0"
+description = "real mind"
+requires-python = ">=3.12"
+
+[tool.setuptools.packages.find]
+where = ["src"]
