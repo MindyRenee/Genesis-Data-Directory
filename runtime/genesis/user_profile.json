@@ -1,10 +1,13 @@
 {
   "name": "Mindy",
   "preferences": {},
-  "facts": {},
+  "facts": {
+    "discord_id": "833096963875536963",
+    "discord_username": "mindybeatty"
+  },
   "goals": [],
   "recent_topics": [],
   "emotional_history": [],
-  "interaction_count": 198,
-  "bond": 0.6982913869347942
+  "interaction_count": 296,
+  "bond": 0.7962851752706694
 }
