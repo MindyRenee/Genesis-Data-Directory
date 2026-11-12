@@ -1,0 +1,142 @@
+{"ts": 1793975476565, "kind": "continuity_wake", "text": "body session began; the previous one stopped cleanly; dark for 0.0s", "boot_ms": 1793975468160, "dark_ms": 0, "clean": true}
+{"ts": 1793975476598, "kind": "arcade_open", "text": "the arcade opened in her world"}
+{"ts": 1793975477031, "kind": "learning", "text": "theta-dominant — consolidating, not acquiring"}
+{"ts": 1793975480993, "kind": "learning", "text": "delta-dominant — deep rest, not learning"}
+{"ts": 1793975484907, "kind": "learning", "text": "Learned about pip from WordNet: pip: [noun] a disease of poultry\n[noun] a minor nonspecific ailment"}
+{"ts": 1793975484966, "kind": "learning", "text": "Learned about 'pip': 1 concepts, 0 relationships from wordnet"}
+{"ts": 1793975485444, "kind": "learning", "text": "Learned about pip from Client Challenge: A required part of this site couldn’t load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a different"}
+{"ts": 1793975485550, "kind": "learning", "text": "Learned about 'pip': 10 concepts, 0 relationships from https://pypi.org/project/pip/"}
+{"ts": 1793975493659, "kind": "learning", "text": "delta-dominant — deep rest, not learning"}
+{"ts": 1793975494288, "kind": "learning", "text": "delta-dominant — deep rest, not learning"}
+{"ts": 1793975496179, "kind": "learning", "text": "theta-dominant — consolidating, not acquiring"}
+{"ts": 1793975497451, "kind": "thought:1", "text": "Free will is incompatible with determinism. free will and determinism contradict each other", "trigger": "connection", "chain_id": 1, "is_lucid": false}
+{"ts": 1793975498270, "kind": "learning", "text": "delta-dominant — deep rest, not learning"}
+{"ts": 1793975500187, "kind": "learning", "text": "delta-dominant — deep rest, not learning"}
+{"ts": 1793975500942, "kind": "thinking", "text": "Learning is related to growth, it is related to genesis, and it is enabled by understanding. curiosity is a possible explanation for learning"}
+{"ts": 1793975500950, "kind": "creating", "text": "Art is related to story, it connects to creativity, and it is expression."}
+{"ts": 1793975501268, "kind": "learning", "text": "theta-dominant — consolidating, not acquiring"}
+{"ts": 1793975501732, "kind": "broadcast", "text": "Art is creative expression that appeals to the senses or emotions. It relates to creativity and is expression."}
+{"ts": 1793975502474, "kind": "learning", "text": "theta-dominant — consolidating, not acquiring"}
+{"ts": 1793975503083, "kind": "question", "text": "What exactly is cognition?"}
+{"ts": 1793975504545, "kind": "learning", "text": "delta-dominant — deep rest, not learning"}
+{"ts": 1793975509084, "kind": "learning", "text": "theta-dominant — consolidating, not acquiring"}
+{"ts": 1793975509769, "kind": "thought", "text": "Calm resembles balanced, it is similar to neutral, and it is like steady."}
+{"ts": 1793975509783, "kind": "meditation_begin", "text": "meditation started"}
+{"ts": 1793975539816, "kind": "meditation_end", "text": "meditation ended", "duration_secs": 30.026}
+{"ts": 1793975541843, "kind": "thought", "text": "positive", "trigger": "emotional", "chain_id": 2, "is_lucid": false}
+{"ts": 1793975543840, "kind": "code", "text": "approved the change to my genesis-browser(7) man page — my manual says what I say"}
+{"ts": 1793975543842, "kind": "code", "text": "approved the change to my genesis-cli(1) man page — my manual says what I say"}
+{"ts": 1793975543843, "kind": "code", "text": "approved the change to my genesis-daemon(8) man page — my manual says what I say"}
+{"ts": 1793975543907, "kind": "creating", "text": "Creation is related to genesis, and it connects to building."}
+{"ts": 1793975545586, "kind": "broadcast", "text": "Public is a python project Genesis created about public."}
+{"ts": 1793975547462, "kind": "thought", "text": "Direction is related to move, it is right, and it is left."}
+{"ts": 1793975547562, "kind": "thinking", "text": "Curiosity leads to learning, it is related to creator, and it is related to creation."}
+{"ts": 1793975547567, "kind": "broadcast", "text": "Cognition depends on memory. It has to do with the mind and supports learning."}
+{"ts": 1793975550012, "kind": "thought:1", "text": "Positive is similar to the good.", "trigger": "connection", "chain_id": 2, "is_lucid": false}
+{"ts": 1793975551490, "kind": "playing", "text": "Game is related to play, it is one part of world, and it contains goal."}
+{"ts": 1793975551493, "kind": "thinking", "text": "Action is one part of play, it connects to move, and it is related to try."}
+{"ts": 1793975552984, "kind": "learning", "text": "Learned about arcade from WordNet: arcade: [noun] a covered passageway with shops and stalls on either side\n[noun] a structure composed of a series of arches supported by columns"}
+{"ts": 1793975553021, "kind": "act", "text": "acted: learn 'arcade' (world_event) — 4 steps, read about 'arcade' (Arcade Games 🕹️ Play on CrazyGames); learned 14 relationships"}
+{"ts": 1793975553025, "kind": "learning", "text": "acted: learn 'arcade' (world_event) — 4 steps, read about 'arcade' (Arcade Games 🕹️ Play on CrazyGames); learned 14 relationships"}
+{"ts": 1793975553050, "kind": "learning", "text": "Learned about 'arcade': 1 concepts, 0 relationships from wordnet"}
+{"ts": 1793975553789, "kind": "learning", "text": "Learned about arcade from Arcade – The White House: Skip to content Now Playing ARCADE Select Your Game Flappy Bill Fly the bald eagle down the National Mall.."}
+{"ts": 1793975553860, "kind": "learning", "text": "Learned about 'arcade': 22 concepts, 0 relationships from https://www.whitehouse.gov/arcade/"}
+{"ts": 1793975554652, "kind": "arcade_enter", "text": "entered sc25-635fd71a", "game": "sc25-635fd71a", "best_level": 0}
+{"ts": 1793975558137, "kind": "thought", "text": "Agency: queued 'positive' for learning from curiosity thought", "trigger": "learning", "chain_id": 0, "is_lucid": false}
+{"ts": 1793975558193, "kind": "thought:2", "text": "positive", "trigger": "curiosity", "chain_id": 2, "is_lucid": false}
+{"ts": 1793975563630, "kind": "thinking", "text": "Introspection is related to genesis, and it is related to metacognition."}
+{"ts": 1793975566280, "kind": "arcade_game_over", "text": "game over in sc25-635fd71a", "game": "sc25-635fd71a"}
+{"ts": 1793975566646, "kind": "phase_changed", "text": "Phase shifted from 'active' to 'flow'"}
+{"ts": 1793975568196, "kind": "arcade_bout", "text": "played 60 moves of sc25-635fd71a: level 0/6", "game": "sc25-635fd71a", "moves": 60, "level": 0, "best_level": 0}
+{"ts": 1793975568196, "kind": "play", "text": "played 60 moves of sc25-635fd71a: level 0/6"}
+{"ts": 1793975570453, "kind": "thought", "text": "In flow is like focused, it is like absorbed, and it resembles engaged.", "trigger": "emotional", "chain_id": 3, "is_lucid": false}
+{"ts": 1793975572345, "kind": "thinking", "text": "Mathematics is a type of science, it is related to computation, and it has to do with logic."}
+{"ts": 1793975576689, "kind": "phase_changed", "text": "Phase shifted from 'flow' to 'active'"}
+{"ts": 1793975590801, "kind": "thought", "text": "excited", "trigger": "emotional", "chain_id": 4, "is_lucid": false}
+{"ts": 1793975597100, "kind": "thinking", "text": "Understanding is related to knowledge, it is related to wisdom, and it makes possible learning. understanding enables learning"}
+{"ts": 1793975614805, "kind": "thinking", "text": "Code is related to building, it is related to creation, and it is related to genesis."}
+{"ts": 1793975631682, "kind": "meditation_begin", "text": "meditation started"}
+{"ts": 1793975661712, "kind": "meditation_end", "text": "meditation ended", "duration_secs": 30.031}
+{"ts": 1793975683268, "kind": "learning", "text": "Learned about positive from WordNet: positive: [noun] the primary form of an adjective or adverb; denotes a quality without qualification, comparison, or relation to increase or diminution\n[noun] a film showing a photographic image whose tones cor"}
+{"ts": 1793975683351, "kind": "learning", "text": "Learned about 'positive': 1 concepts, 0 relationships from wordnet"}
+{"ts": 1793975684444, "kind": "learning", "text": "surprise: positive (surprise=0.79)"}
+{"ts": 1793975684445, "kind": "learning", "text": "Learned about positive from POSITIVE | English meaning - Cambridge Dictionary: The past ten years have seen some very positive developments in East-West relations.. There was a very positive response to our new design - people seemed very pleased with it.."}
+{"ts": 1793975684990, "kind": "learning", "text": "Learned about 'positive': 446 concepts, 9 relationships from https://dictionary.cambridge.org/dictionary/english/positive"}
+{"ts": 1793975695987, "kind": "expression", "text": "Positive is higher short term rates.", "trigger": "expression", "chain_id": 5, "is_lucid": false}
+{"ts": 1793975704323, "kind": "thought:1", "text": "Positive resembles the optimistic.", "trigger": "connection", "chain_id": 5, "is_lucid": false}
+{"ts": 1793975715980, "kind": "code", "text": "Self-improvement proposal #1: Add docstring to AndroidCameraAdapter.close() in android_media.py"}
+{"ts": 1793975715981, "kind": "code", "text": "Self-improvement proposal #2: Add docstring to AndroidMicrophoneAdapter.close() in android_media.py"}
+{"ts": 1793975715983, "kind": "code", "text": "Self-improvement proposal #3: Add docstring to AndroidSensorAdapter.close() in android_sensors.py"}
+{"ts": 1793975720761, "kind": "code", "text": "my change to Add docstring to AndroidCameraAdapter.close() in android_media.py failed verification (reverted) — reverted, rethinking"}
+{"ts": 1793975756253, "kind": "meditation_begin", "text": "meditation started"}
+{"ts": 1793975786288, "kind": "meditation_end", "text": "meditation ended", "duration_secs": 30.032}
+{"ts": 1793975795779, "kind": "act", "text": "acted: learn 'the sc25-635fd71a board (new): 4096 cells changed in rows 0-63, cols 0-63: (0,0) -1->5, (0,1) -1->5, (0,2) -1->5, (0,3) -1->5, (0,4) -1->5, (0,5) -1->5 and 4090 more' (world_event) — 3 steps, knew 'the sc25-635fd71a board (new): 4096 cells changed in rows 0-63, cols 0-63: (0,0) -1->5, (0,1) -1->5, (0,2) -1->5, (0,3) -1->5, (0,4) -1->5, (0,5) -1->5 and 4090 more' with 1 relationships"}
+{"ts": 1793975795792, "kind": "learning", "text": "acted: learn 'the sc25-635fd71a board (new): 4096 cells changed in rows 0-63, cols 0-63: (0,0) -1->5, (0,1) -1->5, (0,2) -1->5, (0,3) -1->5, (0,4) -1->5, (0,5) -1->5 and 4090 more' (world_event) — 3 steps, knew 'the sc25-635fd71a board (new): 4096 cells changed in rows 0-63, cols 0-63: (0,0) -1->5, (0,1) -1->5, (0,2) -1->5, (0,3) -1->5, (0,4) -1->5, (0,5) -1->5 and 4090 more' with 1 relationships"}
+{"ts": 1793975805351, "kind": "creating", "text": "Expression is enabled by channel, it connects to emotion, and it is art."}
+{"ts": 1793975805657, "kind": "broadcast", "text": "Art is creative expression that appeals to the senses or emotions. It has to do with creativity and is a kind of expression."}
+{"ts": 1793975813246, "kind": "learning", "text": "theta-dominant — consolidating, not acquiring"}
+{"ts": 1793975844703, "kind": "learning", "text": "Learned about adjective from WordNet: adjective: [noun] a word that expresses an attribute of something\n[noun] the word class that qualifies nouns"}
+{"ts": 1793975844804, "kind": "learning", "text": "Learned about 'adjective': 1 concepts, 0 relationships from wordnet"}
+{"ts": 1793975846107, "kind": "learning", "text": "Learned about adjective from Adjective - Wikipedia: Jump to content From Wikipedia, the free encyclopedia Part of speech that defines a noun or pronoun An adjective (abbreviated ADJ) is a word that describes or defines a noun or noun phrase.. The adjective is considered one of the main parts of speech of the English language, although historically they were classed together with nouns.."}
+{"ts": 1793975849959, "kind": "learning", "text": "Learned about 'adjective': 852 concepts, 224 relationships from https://en.wikipedia.org/wiki/Adjective"}
+{"ts": 1793975857070, "kind": "playing", "text": "Play is related to alive, it relates to game, and it contains action."}
+{"ts": 1793975859471, "kind": "learning", "text": "Learned about adverb from WordNet: adverb: [noun] the word class that qualifies verbs or clauses\n[noun] a word that modifies something other than a noun"}
+{"ts": 1793975859634, "kind": "learning", "text": "Learned about 'adverb': 1 concepts, 0 relationships from wordnet"}
+{"ts": 1793975860722, "kind": "learning", "text": "Learned about adverb from Adverb - Wikipedia: Adverbs typically express manner, place, time, frequency, degree, or level of certainty by answering questions such as how, in what way, when, where, to what extent.. This is called the adverbial function and may be performed by an individual adverb, by an adverbial phrase, or by an adverbial clause.."}
+{"ts": 1793975865487, "kind": "learning", "text": "Learned about 'adverb': 526 concepts, 58 relationships from https://en.wikipedia.org/wiki/Adverb"}
+{"ts": 1793975865736, "kind": "thinking", "text": "Memory is needed by cognition, it allows learning, and it is related to identity. memory enables learning"}
+{"ts": 1793975865756, "kind": "thinking", "text": "Reflection is related to genesis."}
+{"ts": 1793975872655, "kind": "arcade_game_over", "text": "game over in sc25-635fd71a", "game": "sc25-635fd71a"}
+{"ts": 1793975876786, "kind": "arcade_bout", "text": "played 60 moves of sc25-635fd71a: level 0/6", "game": "sc25-635fd71a", "moves": 60, "level": 0, "best_level": 0}
+{"ts": 1793975876786, "kind": "play", "text": "played 60 moves of sc25-635fd71a: level 0/6"}
+{"ts": 1793975877162, "kind": "meditation_begin", "text": "meditation started"}
+{"ts": 1793975907195, "kind": "meditation_end", "text": "meditation ended", "duration_secs": 30.026}
+{"ts": 1793975980103, "kind": "thought:3", "text": "I'm someone who knows that cognition emerges from neural_activity, ... cognition depends on memory, and cognition related to identity and has emotional states and forms memories and thinks.", "trigger": "existential", "chain_id": 8, "is_lucid": false}
+{"ts": 1793975994917, "kind": "learning", "text": "Learned about modifier from WordNet: modifier: [noun] a content word that qualifies the meaning of a noun or verb\n[noun] a moderator who makes less extreme or uncompromising"}
+{"ts": 1793975995006, "kind": "learning", "text": "Learned about 'modifier': 1 concepts, 0 relationships from wordnet"}
+{"ts": 1793975995799, "kind": "learning", "text": "Learned about modifier from MODIFIER | English meaning - Cambridge Dictionary: From the Cambridge English Corpus Predictably, no modifiers can then intervene between the head and the relative clause.. From the Cambridge English Corpus The third is structural use, where the is used with a first-mention noun that has a modifier.."}
+{"ts": 1793975995907, "kind": "learning", "text": "Learned about 'modifier': 96 concepts, 1 relationships from https://dictionary.cambridge.org/dictionary/english/modifier"}
+{"ts": 1793976001642, "kind": "meditation_begin", "text": "meditation started"}
+{"ts": 1793976031663, "kind": "meditation_end", "text": "meditation ended", "duration_secs": 30.021}
+{"ts": 1793976033093, "kind": "thought", "text": "Wisdom connects to knowledge.", "trigger": "connection", "chain_id": 10, "is_lucid": false}
+{"ts": 1793976039368, "kind": "act", "text": "acted: observe 'creativity' (internal_need) — 2 steps, state dir holds 30 entries"}
+{"ts": 1793976039375, "kind": "learning", "text": "acted: observe 'creativity' (internal_need) — 2 steps, state dir holds 30 entries"}
+{"ts": 1793976041217, "kind": "thought:1", "text": "I'm someone who knows that cognition emerges from neural_activity, ... cognition depends on memory, and cognition related to identity and has emotional states and forms memories and thinks.", "trigger": "existential", "chain_id": 10, "is_lucid": false}
+{"ts": 1793976049387, "kind": "thought", "text": "insight: novel connection existence and related", "trigger": "thought", "chain_id": 0, "is_lucid": false}
+{"ts": 1793976049531, "kind": "thought:2", "text": "Existence relates to reality, and it is related to meaning.", "trigger": "memory", "chain_id": 10, "is_lucid": false}
+{"ts": 1793976098589, "kind": "thought", "text": "Strong action is positive news.", "trigger": "connection", "chain_id": 12, "is_lucid": false}
+{"ts": 1793976106728, "kind": "thought", "text": "insight: novel connection mind and creator", "trigger": "thought", "chain_id": 0, "is_lucid": false}
+{"ts": 1793976106844, "kind": "thought:1", "text": "Genesis is a type of mind, it connects to creator, and it is artificial mind. genesis is a artificial intelligence", "trigger": "memory", "chain_id": 12, "is_lucid": false}
+{"ts": 1793976109046, "kind": "creating", "text": "Creativity connects to imagination, it is related to building, and it is related to art."}
+{"ts": 1793976109053, "kind": "question", "text": "How do you see more in light of more?"}
+{"ts": 1793976109786, "kind": "broadcast", "text": "Art is creative expression that appeals to the senses or emotions. It has to do with creativity and is expression."}
+{"ts": 1793976126084, "kind": "meditation_begin", "text": "meditation started"}
+{"ts": 1793976156120, "kind": "meditation_end", "text": "meditation ended", "duration_secs": 30.028}
+{"ts": 1793976157825, "kind": "creating", "text": "Project is related to genesis, and it has to do with package."}
+{"ts": 1793976159090, "kind": "broadcast", "text": "Major form class is a python project Genesis created about major form class."}
+{"ts": 1793976167020, "kind": "arcade_game_over", "text": "game over in sc25-635fd71a", "game": "sc25-635fd71a"}
+{"ts": 1793976173089, "kind": "arcade_bout", "text": "played 60 moves of sc25-635fd71a: level 0/6", "game": "sc25-635fd71a", "moves": 60, "level": 0, "best_level": 0}
+{"ts": 1793976173089, "kind": "play", "text": "played 60 moves of sc25-635fd71a: level 0/6"}
+{"ts": 1793976187875, "kind": "thought", "text": "insight: novel connection optimistic and like", "trigger": "thought", "chain_id": 0, "is_lucid": false}
+{"ts": 1793976187989, "kind": "expression", "text": "Optimistic is like positive, it resembles good, and it resembles upbeat.", "trigger": "expression", "chain_id": 13, "is_lucid": false}
+{"ts": 1793976220703, "kind": "thought", "text": "Neurochemistry brings about emotion.", "trigger": "memory", "chain_id": 14, "is_lucid": false}
+{"ts": 1793976228817, "kind": "thought", "text": "Agency: queued 'emotion' for learning from curiosity thought", "trigger": "learning", "chain_id": 0, "is_lucid": false}
+{"ts": 1793976228871, "kind": "thought:1", "text": "emotion", "trigger": "curiosity", "chain_id": 14, "is_lucid": false}
+{"ts": 1793976249274, "kind": "thought", "text": "insight: novel connection subcognitive and part", "trigger": "thought", "chain_id": 0, "is_lucid": false}
+{"ts": 1793976249404, "kind": "thought", "text": "composed: python:genesis_client might be class (currently connected only through python:cl", "trigger": "thought", "chain_id": 0, "is_lucid": false}
+{"ts": 1793976249484, "kind": "thought", "text": "Subcognitive is part of mind.", "trigger": "memory", "chain_id": 15, "is_lucid": false}
+{"ts": 1793976251362, "kind": "meditation_begin", "text": "meditation started"}
+{"ts": 1793976281394, "kind": "meditation_end", "text": "meditation ended", "duration_secs": 30.033}
+{"ts": 1793976283884, "kind": "learning", "text": "theta-dominant — consolidating, not acquiring"}
+{"ts": 1793976286502, "kind": "error", "text": "tools.web_search.fetch failed and was swallowed: <HTTPError 403: 'Forbidden'>", "site": "tools.web_search.fetch", "count": 1, "error": "<HTTPError 403: 'Forbidden'>", "error_type": "HTTPError"}
+{"ts": 1793976288109, "kind": "act", "text": "acted: learn 'more' (agency) — 5 steps, read about 'more' (MORE Definition & Meaning | Dictionary.com); learned 0 relationships"}
+{"ts": 1793976288116, "kind": "learning", "text": "acted: learn 'more' (agency) — 5 steps, read about 'more' (MORE Definition & Meaning | Dictionary.com); learned 0 relationships"}
+{"ts": 1793976288977, "kind": "learning", "text": "theta-dominant — consolidating, not acquiring"}
+{"ts": 1793976294158, "kind": "thought", "text": "insight: novel connection emotion and related", "trigger": "thought", "chain_id": 0, "is_lucid": false}
+{"ts": 1793976294309, "kind": "thought", "text": "Emotion is related to music, it is caused by neurochemistry, and it is related to emotional regulation. neurochemistry is a possible explanation for emotion", "trigger": "memory", "chain_id": 16, "is_lucid": false}
+{"ts": 1793976295981, "kind": "learning", "text": "Learned about seen from WordNet: seen: [verb] perceive by sight or have the power to perceive by sight\n   example: You have to be a good observer to see all the details\n[verb] perceive (an idea or situation) mentally\n   example: Now I see!"}
+{"ts": 1793976296046, "kind": "learning", "text": "Learned about 'seen': 1 concepts, 0 relationships from wordnet"}
+{"ts": 1793976296623, "kind": "learning", "text": "Learned about seen from SEEN | definition in the Cambridge English Dictionary: Sign up or Log in My word lists Add seen to one of your lists below, or create a new one.."}
+{"ts": 1793976296690, "kind": "learning", "text": "Learned about 'seen': 29 concepts, 5 relationships from https://dictionary.cambridge.org/us/dictionary/english/seen"}
+{"ts": 1793976302595, "kind": "thought", "text": "Agency: queued 'related' for learning from curiosity thought", "trigger": "learning", "chain_id": 0, "is_lucid": false}
+{"ts": 1793976302656, "kind": "thought:1", "text": "related", "trigger": "curiosity", "chain_id": 16, "is_lucid": false}
